@@ -24,4 +24,4 @@ ls
 
 cd Crack-number
 
-python2 Radom-clone.py
+python Radom-clone.py
